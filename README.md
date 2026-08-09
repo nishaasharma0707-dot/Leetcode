@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Binary Search
 |  |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
