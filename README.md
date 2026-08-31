@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0198-house-robber) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0139-word-break) |
 | [1143-longest-common-subsequence](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
