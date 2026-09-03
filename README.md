@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 ## Graph Theory
@@ -148,5 +151,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
