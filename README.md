@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0055-jump-game) |
+| [0128-longest-consecutive-sequence](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0139-word-break) |
 ## Trie
@@ -156,5 +158,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
