@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1143-longest-common-subsequence](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Binary Search
 |  |
@@ -66,11 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0056-merge-intervals) |
+| [0435-non-overlapping-intervals](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Math
 |  |
 | ------- |
