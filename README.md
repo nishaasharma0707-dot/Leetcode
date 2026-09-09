@@ -171,4 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0056-merge-intervals) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
