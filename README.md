@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0027-remove-element) |
+| [0141-linked-list-cycle](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0139-word-break) |
+| [0141-linked-list-cycle](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0141-linked-list-cycle) |
 ## Trie
 |  |
 | ------- |
@@ -174,9 +176,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0206-reverse-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
