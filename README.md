@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0139-word-break) |
 | [1143-longest-common-subsequence](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0079-word-search) |
 ## Combinatorics
 |  |
 | ------- |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0079-word-search) |
 | [0133-clone-graph](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0207-course-schedule) |
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 ## Union-Find
