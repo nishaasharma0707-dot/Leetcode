@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0143-reorder-list) |
 ## Sorting
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
