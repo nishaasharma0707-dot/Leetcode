@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0572-subtree-of-another-tree](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -297,4 +300,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/nishaasharma0707-dot/Leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
